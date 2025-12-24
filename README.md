@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 ### Download Data
-You can download data from [BasicTS](https://github.com/GestaltCogTeam/BasicTS/blob/master/tutorial/dataset_design.md) and unzip it
+You can download data from [BasicTS](https://github.com/GestaltCogTeam/BasicTS/blob/master/docs/dataset_design.md) and unzip it
 into the `datasets` directory.
 
 We use four datasets: `PEMS03`, `PEMS04`, `PEMS07`, and `PEMS08`.  
